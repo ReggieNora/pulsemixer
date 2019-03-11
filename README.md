@@ -7,7 +7,7 @@ cli and curses mixer for pulseaudio
 
 ## Installation:
 
-Pulsemixer is a self-reliant single-file python script that doesn't require any extra libraries. So you can simply download [pulsemixer](https://raw.githubusercontent.com/GeorgeFilipkin/pulsemixer/master/pulsemixer) manually, do `chmod +x ./pulsemixer` and put it anywhere you want.
+Pulsemixer is a self-sufficent single-file python script that doesn't require any extra libraries. So you can simply download [pulsemixer](https://raw.githubusercontent.com/GeorgeFilipkin/pulsemixer/master/pulsemixer) manually, do `chmod +x ./pulsemixer` and put it anywhere you want.
 
 Below are some more convenient ways to install pulsemixer:
 
